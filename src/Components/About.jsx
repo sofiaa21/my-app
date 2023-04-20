@@ -6,7 +6,7 @@ const About = () => {
         <div>
             <h1>About Page</h1>
             <p> You made it to the about page!</p>
-            <div>
+            <div className="btn-group">
                 <Link to="/">
                   <button>Back to Main</button>
                 </Link>
